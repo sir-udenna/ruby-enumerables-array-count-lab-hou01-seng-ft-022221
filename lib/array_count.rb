@@ -11,5 +11,5 @@ def count_empty_strings(array)
     w = string.is_a? String
     b = w.empty?
     return b
-    
+  end
 end
